@@ -4,9 +4,7 @@
 
 评论贡献者：[Dashjay](https://github.com/dashjay)
 
-- [x] xxxxxx
-- [ ] xxxxxx
-- [ ] xxxxxx
+- [x] 课本：李超、付邵静 ——《信息安全数学基础》
 
 ## 课程信息
 
@@ -18,4 +16,5 @@
 
 ## 非官方资料推荐
 
-- 暂无
+- B站视频：[不难的大学数学——初等数论](https://www.bilibili.com/video/BV1TJ411P7Xw) 
+- 本文件夹下的资料，可以打印并且带入考场，可以使用 [Typora](https://www.typora.io/) 以显示数学公式
