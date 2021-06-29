@@ -34,6 +34,7 @@
 ### 课程清单（按照拼音排序）
 
 - [**信息安全数学基础**](./course/xin-xi-an-quan-de-shu-xue-ji-chu)
+- [网络安全与管理](./course/wang-luo-an-quan-yu-guan-li)
 
 [^1]:某个老师PPT十多年来的变化就是，把“副教授”字样改成了“教授”字样
 
